@@ -16,7 +16,7 @@
       "address": "0x1852B91c4A2d817e8a479e91c1c2607E46FEE414",
       "chainId": 271,
       "decimals": 18,
-      "logoURI": "https://egcscan.com/images/egc_favicon-1487b2ecf555e41831d4aad1fdb1ac2c.png"
+      "logoURI": "https://raw.githubusercontent.com/EgonChain/DEX/main/assets/0x1852B91c4A2d817e8a479e91c1c2607E46FEE414.png"
     },
 
 
@@ -52,19 +52,19 @@
     {
       "name": "CPT Token",
       "symbol": "CPT ECG-20",
-      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "address": "0xC26d5dd4ecAc91d59Be722CFf84DD78186655381",
       "chainId": 271,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/EgonChain/DEX/main/assets/0xC26d5dd4ecAc91d59Be722CFf84DD78186655381.png"
     },
     
      {
       "name": "ENU Token",
       "symbol": "ENU ECG-20",
-      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "address": "0x19E3FCf42FB79B383E4978396f4bd66F12D73E58",
       "chainId": 271,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/EgonChain/DEX/main/assets/0x19E3FCf42FB79B383E4978396f4bd66F12D73E58.png"
     }
 
 
