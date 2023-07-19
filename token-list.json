@@ -1,0 +1,73 @@
+{
+  "name": "Egon Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/",
+  "keywords": ["EGC", "default"],
+  "tokens": [
+    {
+      "name": "EGON Token",
+      "symbol": "WEGON",
+      "address": "0x1852B91c4A2d817e8a479e91c1c2607E46FEE414",
+      "chainId": 271,
+      "decimals": 18,
+      "logoURI": "https://egcscan.com/images/egc_favicon-1487b2ecf555e41831d4aad1fdb1ac2c.png"
+    },
+
+
+    {
+      "name": "ETH Token",
+      "symbol": "ETH ECG-20",
+      "address": "0xf6E7129F427aE7E78E870574f16aD4eA36B19d8b",
+      "chainId": 271,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC ECG-20",
+      "address": "0xF7256527f97b4159E9Ad1D108927633aF6105560",
+      "chainId": 271,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    },
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB ECG-20",
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "chainId": 271,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+    
+    
+    {
+      "name": "CPT Token",
+      "symbol": "CPT ECG-20",
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "chainId": 271,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+    
+     {
+      "name": "ENU Token",
+      "symbol": "ENU ECG-20",
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "chainId": 271,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    }
+
+
+  ]
+}
+
