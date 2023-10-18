@@ -13,7 +13,7 @@
     {
       "name": "EGON Token",
       "symbol": "WEGON",
-      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "address": "0x331466B00f02b4C121688b1Db813CCD8ef91C394",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/EgonChain/DEX/main/assets/0x1852B91c4A2d817e8a479e91c1c2607E46FEE414.png"
