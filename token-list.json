@@ -13,17 +13,17 @@
     {
       "name": "EGON Token",
       "symbol": "WEGON",
-      "address": "0x331466B00f02b4C121688b1Db813CCD8ef91C394",
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
       "chainId": 271,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/EgonChain/DEX/main/assets/0x331466B00f02b4C121688b1Db813CCD8ef91C394.png"
+      "logoURI": "https://raw.githubusercontent.com/EgonChain/DEX/main/assets/0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441.png"
     },
 
 
     {
       "name": "ETH Token",
       "symbol": "ETH EGC-20",
-      "address": "0xE5184D6B16aE42D16fBA7210277Ee6a7a23352Fd",
+      "address": "0xf6E7129F427aE7E78E870574f16aD4eA36B19d8b",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
@@ -33,7 +33,7 @@
     {
       "name": "MATIC Token",
       "symbol": "MATIC EGC-20",
-      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "address": "0x2E565cbF87a9f2de8252c24C60bEBEE994989F30",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
@@ -42,7 +42,7 @@
     {
       "name": "BNB Token",
       "symbol": "BNB EGC-20",
-      "address": "0x8694A1A789133c94aA3c95B80c852583628A93b6",
+      "address": "0xF7256527f97b4159E9Ad1D108927633aF6105560",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
